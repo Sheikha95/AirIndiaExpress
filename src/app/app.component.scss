@@ -1,0 +1,142 @@
+#white-icon {
+    color: white;
+  }
+
+  #bg-color{
+    background-color: #D12442;
+  }
+
+.nav-link{
+    color: white;
+    font-size: 12px;
+    font-family: Arial;
+  }
+
+  #bg-color2{
+    background-color: black;
+  }
+
+
+  //shika
+
+  .p-grid{
+    display: flex;
+    color: white;
+
+    }
+
+    .p-col-4{
+    flex: 2;
+    margin-right: 20px;
+    color: white;
+    }
+
+    .panel-heading{
+        background-color: pink;
+    }
+
+    .container{
+        border-radius: 2px;
+    }
+
+    .form{
+        border: 2px;
+    }
+
+    .form-group {
+        display: flex;
+        align-items: center;
+      }
+     
+      .form-control {
+        flex: 1;
+        margin-right: 5px;
+      }
+
+      .btn.btn-light{
+        color: red;
+       
+      }
+
+      #buttoncss
+      {
+        color: #D12442;
+        text-align: end;
+
+      }
+
+
+
+      //azza
+
+      $color_1: #fff;
+      $background-color_1: #f0f0f0;
+      $background-color_2: #fff;
+      $background-color_3: #efacd0;
+      $background-color_4: #f2f2f2;
+
+   
+    .container {
+        text-align: center;
+        width: 75%;
+    }
+    .main-title {
+        font-size: 24px;
+        margin-bottom: 20px;
+        
+        width: 75%;
+    }
+    .board {
+        border: 1px solid #ccc;
+        padding: 20px;
+        background-color: $background-color_2;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        display: inline-block;
+        text-align: left;
+    }
+    table {
+        border-collapse: collapse;
+        
+        width: 75%;
+    }
+    th {
+        border: 1px solid #ccc;
+        padding: 10px;
+        background-color: $background-color_3;
+        color: $color_1;
+        text-align: left;
+    }
+    td {
+        border: 1px solid #ccc;
+        padding: 10px;
+        text-align: left;
+    }
+    tr {
+        &:nth-child(even) {
+            background-color: $background-color_4;
+        }
+    }
+
+    #header-col
+    {
+      background-color: pink;
+      color: black;
+      text-align: center;
+    }
+
+    #countryDropdown
+    {
+      size: 10px;
+    }
+
+
+
+  #radio{
+    text-align: center;
+  }
+
+
+
+
+
+
